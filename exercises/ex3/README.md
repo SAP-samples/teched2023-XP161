@@ -53,9 +53,5 @@ Like a champion! You completed Exercise 3 successfully. 🥳
 
 You have successfully built the application that you developed in SAP Build Apps.
 
-You can now navigate to the [Overview](../).  
+You can now navigate to the [Overview](../../#exercises).  
 We will continue with a demo presentation during SAP TechEd 2023 before we continue with [Exercise 4](../ex4/), you navigate there using [this link](../ex4/).
-
-## Troubleshooting
-
-## Footnotes

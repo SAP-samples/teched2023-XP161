@@ -12,6 +12,7 @@
   - Cloud Foundry runtime
   - Destination Service
   - Identity Authentication Service Tenant
+- Admin access for Global Account (Running the booster)
 - Admin access for this Subaccount
 - (Optional) An S/4HANA System
 
@@ -83,7 +84,7 @@ Now you should be able to see both **SAP Build Apps** as well as **SAP Build Wor
 
 <p align="center"><img src="./images/ex0-4-1.png" width="100%" /></p>
 
-You can now navigate to the [Overview](../).  
+You can now navigate to the [Overview](../../#exercises).  
 If your instructor already told you to continue with [Exercise 1](../ex1/), you navigate there using [this link](../ex1/).
 
 ## Troubleshooting

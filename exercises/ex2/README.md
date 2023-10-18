@@ -302,5 +302,11 @@ The details page should look like:
 
 Awesome! You completed Exercise 2. 🥳
 
-You can now navigate to the [Overview](../).  
+You can now navigate to the [Overview](../../#exercises).  
 If your instructor already told you to continue with [Exercise 3](../ex3/), you navigate there using [this link](../ex3/).
+
+## Further Remarks
+
+### OData Expand
+
+SAP Build Apps does offer to automatically expand relational fields from OData data sources. Alternatively to the approach this exercise is leveraging using a condition to filter for the correct entities, you could also leverage the expand functionality.

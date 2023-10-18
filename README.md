@@ -1,10 +1,10 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-XP161)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-XP161)
 
-# XP161 - Develop Mobile Apps with SAP Build Apps, Access Them via SAP Mobile Start
+# XP161 - Develop Mobile Apps with SAP Build Apps, Access them via SAP Mobile Start
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2023 session called XP161 - Develop Mobile Apps with SAP Build Apps, Access Them via SAP Mobile Start.
+This repository contains the material for the SAP TechEd 2023 session called XP161 - Develop Mobile Apps with SAP Build Apps, Access them via SAP Mobile Start.
 
 <p align="center"><img src="./images/XP161.jpg" width="100%" /></p>
 
@@ -35,7 +35,7 @@ The requirements to follow the exercises in this repository are:
 
 ## Exercises
 
-> **NOTE:** For the SAP TechEd 2023 Hands-on Session we have already prepared the landscape with **SAP Build Work Zone, standard edition** and **SAP Build Apps**. Please start directly with [Exercise 1](../ex1) as an in-person participant.
+> **NOTE:** For the SAP TechEd 2023 Hands-on Session we have already prepared the landscape with **SAP Build Work Zone, standard edition** and **SAP Build Apps**. Please start directly with [Exercise 1](exercises/ex1/) as an in-person participant.
 
 - [Exercise 0 - Prerequisites & Landscape Setup](exercises/ex0/) (skip on TechEd 2023 Hands-on)
 - [Exercise 1 - Create your first application with SAP Build Apps](exercises/ex1/)

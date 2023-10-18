@@ -113,6 +113,7 @@ To create the page displaying the list of business partners, you need to first c
 A data variable is essentially the same as a page variable that exists in the context of the current page that is not accessible from other pages, and disappears if the page is removed from the navigation stack. The difference is that it gets its schema from the data resource it points to, and it comes with included default logic.
 
 **Creating a Data Variable**
+
 Let us create a data variable to store the results of the business partner data coming from the data source.
 
 1. From the UI canvas, choose the toggle button to switch from **VIEW** to **VARIABLES**.
@@ -211,5 +212,5 @@ The application's first page is now displayed.
 
 Awesome! You completed Exercise 1. 🥳
 
-You can now navigate to the [Overview](../).  
+You can now navigate to the [Overview](../../#exercises).  
 If your instructor already told you to continue with [Exercise 2](../ex2/), you navigate there using [this link](../ex2/).

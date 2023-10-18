@@ -127,8 +127,8 @@ In this section, the application will be connected with SAP Build Work Zone, sta
 
 6. Find and open your app in SAP Mobile Start
 
-    <p align="center"><img src="./images/SMS_5.PNG" width="45%" /></p>
-    <p align="center"><img src="./images/SMS_6.PNG" width="45%" /></p>
+    <p align="center"><img src="./images/SMS_5.png" width="45%" /></p>
+    <p align="center"><img src="./images/SMS_6.png" width="45%" /></p>
 
 ## Congrats
 
@@ -136,4 +136,4 @@ You Rock! You completed Exercise 4. 🥳
 
 Congratulations! You now have finished the development of your application. In this last step you have integrated your app in SAP Build Work Zone, standard edition, to have one central entry point to show all of your SAP BTP applications. Finally, you have have opend your app in SAP Mobile Start.
 
-You can now navigate to the [Overview](../).  
+You can now navigate to the [Overview](../../#exercises).  
