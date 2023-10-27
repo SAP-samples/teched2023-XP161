@@ -26,7 +26,7 @@ Open [SAP Build Apps](https://xp161-dt162-x75hy9xc.eu10.build.cloud.sap/lobby). 
 
 **Create a Project**
 
-1. On the Build, app dashboard choose to **Create** and choose **Build an Application**.
+1. On the SAP Build Lobby, choose to **Create** and choose **Build an Application**.
 
     <p align="center"><img src="./images/ex1_step2_1.png" width="100%" /></p>
 
